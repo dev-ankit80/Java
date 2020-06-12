@@ -20,7 +20,7 @@ public class AnyBaseToAnyBase {
      */
     static final int MINIMUM_BASE = 2;
     static final int MAXIMUM_BASE = 36;
-
+  // new changes made here
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String n;
